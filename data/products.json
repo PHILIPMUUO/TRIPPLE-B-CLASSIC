@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Gel Polish",
+    "price": "Ksh 1,200",
+    "image": "/images/nail/g1.jpg",
+    "category": "nails",
+    "_id": "1"
+  },
+  {
+    "name": "French Tips",
+    "price": "Ksh 1,600",
+    "image": "/images/nail/g2.jpg",
+    "category": "nails",
+    "_id": "2"
+  },
+  {
+    "name": "Acrylic Nails",
+    "price": "Ksh 2,500",
+    "image": "/images/nail/g3.jpg",
+    "category": "nails",
+    "_id": "3"
+  },
+  {
+    "name": "Nail Art Pack",
+    "price": "Ksh 5000",
+    "image": "/images/nail/g4.jpg",
+    "category": "nails",
+    "_id": "4"
+  },
+  {
+    "name": "Cuticle Remover",
+    "price": "Ksh 700",
+    "image": "/images/nail/g5.png",
+    "category": "nails",
+    "_id": "5"
+  },
+  {
+    "name": "Base Coat",
+    "price": "Ksh 350",
+    "image": "/images/nail/g6.jpg",
+    "category": "nails",
+    "_id": "6"
+  },
+  {
+    "name": "Facial Cleanser",
+    "price": "Ksh 1,000",
+    "image": "/images/beauty/beauty1.jpg",
+    "category": "beauty",
+    "_id": "7"
+  },
+  {
+    "name": "Skin Toner",
+    "price": "Ksh 950",
+    "image": "/images/beauty/beauty2.jpg",
+    "category": "beauty",
+    "_id": "8"
+  },
+  {
+    "name": "BB Cream",
+    "price": "Ksh 1,200",
+    "image": "/images/beauty/beauty3.jpg",
+    "category": "beauty",
+    "_id": "9"
+  },
+  {
+    "name": "Lip Gloss Set",
+    "price": "Ksh 850",
+    "image": "/images/beauty/beauty4.jpg",
+    "category": "beauty",
+    "_id": "10"
+  },
+  {
+    "name": "Mascara",
+    "price": "Ksh 700",
+    "image": "/images/beauty/beauty5.jpg",
+    "category": "beauty",
+    "_id": "11"
+  },
+  {
+    "name": "Beauty Blender",
+    "price": "Ksh 300",
+    "image": "/images/beauty/beauty6.jpg",
+    "category": "beauty",
+    "_id": "12"
+  },
+  {
+    "name": "Blue Blazer",
+    "price": "Ksh 2,200",
+    "image": "/images/men/m1.jpg",
+    "category": "men",
+    "_id": "13"
+  },
+  {
+    "name": "Casual Shirt",
+    "price": "Ksh 2,000",
+    "image": "/images/men/m2.jpg",
+    "category": "men",
+    "_id": "14"
+  },
+  {
+    "name": "Chino Trousers",
+    "price": "Ksh 2,500",
+    "image": "/images/men/m3.jpg",
+    "category": "men",
+    "_id": "15"
+  },
+  {
+    "name": "Leather Jacket",
+    "price": "Ksh 4,500",
+    "image": "/images/men/m4.jpg",
+    "category": "men",
+    "_id": "16"
+  },
+  {
+    "name": "Denim Jeans",
+    "price": "Ksh 2,800",
+    "image": "/images/men/m5.jpg",
+    "category": "men",
+    "_id": "17"
+  },
+  {
+    "name": "Polo T-shirt",
+    "price": "Ksh 1,500",
+    "image": "/images/men/m6.jpg",
+    "category": "men",
+    "_id": "18"
+  },
+  {
+    "name": "Elegant Dress",
+    "price": "Ksh 2,800",
+    "image": "/images/women/w1.jpg",
+    "category": "women",
+    "_id": "19"
+  },
+  {
+    "name": "Maxi Dress",
+    "price": "Ksh 3,000",
+    "image": "/images/women/w2.jpg",
+    "category": "women",
+    "_id": "20"
+  },
+  {
+    "name": "Skirt & Blouse",
+    "price": "Ksh 2,200",
+    "image": "/images/women/w3.jpg",
+    "category": "women",
+    "_id": "21"
+  },
+  {
+    "name": "Bodycon Dress",
+    "price": "Ksh 3,200",
+    "image": "/images/women/w4.jpg",
+    "category": "women",
+    "_id": "22"
+  },
+  {
+    "name": "High Waist Jeans",
+    "price": "Ksh 1,800",
+    "image": "/images/women/w5.jpg",
+    "category": "women",
+    "_id": "23"
+  },
+  {
+    "name": "Off-Shoulder Top",
+    "price": "Ksh 1,800",
+    "image": "/images/women/w6.jpg",
+    "category": "women",
+    "_id": "24"
+  },
+  {
+    "name": "Cool Tee",
+    "price": "Ksh 1,500",
+    "image": "/images/kids/k1.jpg",
+    "category": "kids",
+    "_id": "25"
+  },
+  {
+    "name": "Cartoon Hoodie",
+    "price": "Ksh 1,800",
+    "image": "/images/kids/k2.jpg",
+    "category": "kids",
+    "_id": "26"
+  },
+  {
+    "name": "Jeans Set",
+    "price": "Ksh 2,000",
+    "image": "/images/kids/k3.jpg",
+    "category": "kids",
+    "_id": "27"
+  },
+  {
+    "name": "Baby Dress",
+    "price": "Ksh 1,700",
+    "image": "/images/kids/k4.jpg",
+    "category": "kids",
+    "_id": "28"
+  },
+  {
+    "name": "Two-Piece Suit",
+    "price": "Ksh 2,500",
+    "image": "/images/kids/k5.jpg",
+    "category": "kids",
+    "_id": "29"
+  },
+  {
+    "name": "Cartoon Pyjamas",
+    "price": "Ksh 1,200",
+    "image": "/images/kids/k6.jpg",
+    "category": "kids",
+    "_id": "30"
+  },
+  {
+    "name": "Passport Photos",
+    "price": "Ksh 300",
+    "image": "/images/ph/p1.jpg",
+    "category": "studio",
+    "_id": "31"
+  },
+  {
+    "name": "Graduation Shoot",
+    "price": "Ksh 4,500",
+    "image": "/images/ph/p2.jpg",
+    "category": "studio",
+    "_id": "32"
+  },
+  {
+    "name": "Birthday Shoot",
+    "price": "Ksh 3,500",
+    "image": "/images/ph/p3.jpg",
+    "category": "studio",
+    "_id": "33"
+  },
+  {
+    "name": "Model Portfolio",
+    "price": "Ksh 5,500",
+    "image": "/images/ph/p4.jpg",
+    "category": "studio",
+    "_id": "34"
+  },
+  {
+    "name": "Couple Shoot",
+    "price": "Ksh 4,000",
+    "image": "/images/ph/p5.jpg",
+    "category": "studio",
+    "_id": "35"
+  },
+  {
+    "name": "Family Shoot",
+    "price": "Ksh 6,000",
+    "image": "/images/ph/p6.jpg",
+    "category": "studio",
+    "_id": "36"
+  }
+]
